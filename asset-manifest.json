@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sinncity.github.io/csb-dj96fr/static/css/main.f760268f.chunk.css",
+    "main.js": "https://sinncity.github.io/csb-dj96fr/static/js/main.8c0f81a2.chunk.js",
+    "main.js.map": "https://sinncity.github.io/csb-dj96fr/static/js/main.8c0f81a2.chunk.js.map",
+    "runtime-main.js": "https://sinncity.github.io/csb-dj96fr/static/js/runtime-main.9f71a979.js",
+    "runtime-main.js.map": "https://sinncity.github.io/csb-dj96fr/static/js/runtime-main.9f71a979.js.map",
+    "static/js/2.8bcc15d3.chunk.js": "https://sinncity.github.io/csb-dj96fr/static/js/2.8bcc15d3.chunk.js",
+    "static/js/2.8bcc15d3.chunk.js.map": "https://sinncity.github.io/csb-dj96fr/static/js/2.8bcc15d3.chunk.js.map",
+    "index.html": "https://sinncity.github.io/csb-dj96fr/index.html",
+    "static/css/main.f760268f.chunk.css.map": "https://sinncity.github.io/csb-dj96fr/static/css/main.f760268f.chunk.css.map",
+    "static/js/2.8bcc15d3.chunk.js.LICENSE.txt": "https://sinncity.github.io/csb-dj96fr/static/js/2.8bcc15d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f71a979.js",
+    "static/js/2.8bcc15d3.chunk.js",
+    "static/css/main.f760268f.chunk.css",
+    "static/js/main.8c0f81a2.chunk.js"
+  ]
+}
